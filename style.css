@@ -1,3 +1,5 @@
+/* PROPIEDADES GENERALES */
+
 * {
 	margin: 0px;
 	padding: 0px; 
@@ -38,6 +40,7 @@
 #menu ul li ul {
 	display: none;
 }
+
 /* PROPIEDADES ESPECÍFICAS */
 
 #menu ul li ul li ul li a.primera {
