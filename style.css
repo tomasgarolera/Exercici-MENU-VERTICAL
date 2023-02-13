@@ -1,9 +1,9 @@
 /* PROPIEDADES GENERALES */
 
 * {
-	margin: 20px;
-	padding: 20px; 
-	outline: 0;
+	margin: 3px;
+	padding: 3px; 
+	outline: 1;
 }
 
 #menu {
