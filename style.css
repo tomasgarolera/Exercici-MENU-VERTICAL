@@ -1,5 +1,3 @@
-/* PROPIEDADES GENERALES */
-
 * {
 	margin: 0px;
 	padding: 0px; 
@@ -41,7 +39,6 @@
 	display: none;
 }
 
-/* PROPIEDADES ESPECÍFICAS */
 
 #menu ul li ul li ul li a.primera {
 	border-top-color:  rgb(252, 248, 27);
@@ -61,7 +58,6 @@
 	position: relative;
 }
 
-/* PROPIEDAD HOVER */
 
 #menu ul li:hover {
 	position: relative;
