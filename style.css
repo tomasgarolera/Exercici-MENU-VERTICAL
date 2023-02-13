@@ -69,7 +69,7 @@
 
 #menu ul li a:hover, #menu ul li:hover a.nivel1 {
 	background-color: #6CC;
-	color: #000;
+	color: #ffffff;
 	position: relative;
 }
 
@@ -79,6 +79,13 @@
 }
 
 #menu ul li ul li a:hover ul.nivel3, #menu ul li ul li:hover ul.nivel3 {
+	display: block;
+	position: absolute;
+	left: 161px;
+	top:0px;
+}
+
+#menu ul li ul li a:hover ul.nivel4, #menu ul li ul li:hover ul.nivel4 {
 	display: block;
 	position: absolute;
 	left: 161px;
