@@ -44,16 +44,16 @@
 	border-top-color:  rgb(252, 248, 27);
 }
 
-#menu ul li.nivel1 { 
+#menu ul li.vista1 { 
 	float: left;
 	margin-right: 1px;
 }
 
-#menu ul li a.nivel2 {
+#menu ul li a.vista2 {
 	color: #ffffff;
 }
 
-#menu ul li a.nivel1, #menu ul li a.nivel2 {
+#menu ul li a.vista1, #menu ul li a.vistal2 {
 	display: block;
 	position: relative;
 }
@@ -63,25 +63,25 @@
 	position: relative;
 }
 
-#menu ul li a:hover, #menu ul li:hover a.nivel1 {
+#menu ul li a:hover, #menu ul li:hover a.vista1 {
 	background-color: rgb(252, 248, 27);
 	color:  rgb(0, 0, 0);
 	position: relative;
 }
 
-#menu ul li:hover  ul.nivel2, #menu ul li a:hover  ul.nivel2{
+#menu ul li:hover  ul.vista2, #menu ul li a:hover  ul.vista2{
 	display: block;
 	position: absolute;left: 0px;
 }
 
-#menu ul li ul li a:hover ul.nivel3, #menu ul li ul li:hover ul.nivel3 {
+#menu ul li ul li a:hover ul.vista3, #menu ul li ul li:hover ul.vista3 {
 	display: block;
 	position: absolute;
 	left: 161px;
 	top:0px;
 }
 
-#menu ul li ul li ul li a:hover ul.nivel4, #menu ul li ul li ul li:hover ul.nivel4 {
+#menu ul li ul li ul li a:hover ul.vista4, #menu ul li ul li ul li:hover ul.vista4 {
 	display: block;
 	position: absolute;
 	left: 161px;
