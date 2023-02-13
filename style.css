@@ -25,8 +25,8 @@
 	display: block;
 	text-decoration: none;
 	color: #fff;
-	background-color: rgba(59,93,148,1);
-	border: solid 1px #fff;
+	background-color: rgb(8, 241, 28);
+	border: solid 1px #000000;
 	padding: 8px;
 	position: relative;
 }
@@ -44,7 +44,7 @@
 /* PROPIEDADES ESPECÍFICAS */
 
 #menu ul li ul li ul li a.primera {
-	border-top-color: #fff;
+	border-top-color: #000000;
 }
 
 #menu ul li.nivel1 { 
@@ -68,8 +68,8 @@
 }
 
 #menu ul li a:hover, #menu ul li:hover a.nivel1 {
-	background-color: #6CC;
-	color: #ffffff;
+	background-color: rgb(252, 248, 27);
+	color: #000000;
 	position: relative;
 }
 
