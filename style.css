@@ -7,10 +7,10 @@
 }
 
 #menu {
-	text-align: center;
+	text-align: left;
 	font-size: 0.7em;
-	width: 540px;
-	margin: 20px auto;
+	width: 700px;
+	margin: 15px auto;
 }
 
 #menu ul {
@@ -18,7 +18,7 @@
 }
 
 #menu ul li {
-	width: 162px;
+	width: 170px;
 }
 
 #menu ul li a {
