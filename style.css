@@ -26,7 +26,7 @@
 	text-decoration: none;
 	color: #fff;
 	background-color: rgb(8, 241, 28);
-	border: solid 1px #000000;
+	border: solid 1px  rgb(252, 248, 27);
 	padding: 8px;
 	position: relative;
 }
@@ -44,7 +44,7 @@
 /* PROPIEDADES ESPECÍFICAS */
 
 #menu ul li ul li ul li a.primera {
-	border-top-color: #000000;
+	border-top-color:  rgb(252, 248, 27);
 }
 
 #menu ul li.nivel1 { 
@@ -69,7 +69,7 @@
 
 #menu ul li a:hover, #menu ul li:hover a.nivel1 {
 	background-color: rgb(252, 248, 27);
-	color: #000000;
+	color:  rgb(252, 248, 27);
 	position: relative;
 }
 
@@ -93,6 +93,6 @@
 }
 
 #menu ul li ul li a:hover {
-	border-top-color: #000;
+	border-top-color:  rgb(252, 248, 27)0;
 	position: relative;
 }z
